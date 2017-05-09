@@ -1,0 +1,18 @@
+{
+  "name": "algolia-search-demo",
+  "version": "1.0.0",
+  "description": "A demo of how to use Algolia Search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algolia",
+    "search"
+  ],
+  "author": "Karuppiah N <karuppiah7890@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^3.22.1"
+  }
+}
